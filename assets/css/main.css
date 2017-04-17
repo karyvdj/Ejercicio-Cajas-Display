@@ -1,0 +1,20 @@
+.caja{
+  margin-top: 50px;
+  margin-left: 20%;
+}
+div{
+  margin:20px;
+  height: 100px;
+  width: 100px;
+  background:  #b3ffff;
+  border: 1px solid  #008080;
+  display: block;
+}
+.papa{
+  display: block;
+  width: 440px;
+  height: 150px;
+}
+.hijo{
+  display: inline-block;
+}
